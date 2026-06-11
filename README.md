@@ -11,9 +11,10 @@ This app was vibe coded as a simple personal local utility with the Claude Fable
 
 ## ⚡️ How it works
 
-1. Open the app. (maybe you have to allow the app through the security settings)
-2. Allow the app accessibility
-3. A menu bar item now appears, where you can set and activate layouts.
+1. Download the release
+2. Open the app (maybe you have to allow the app through the security settings)
+3. Allow the app accessibility
+4. A menu bar item now appears, where you can set and activate layouts.
 
 ## 🎹 Hotkeys
 
