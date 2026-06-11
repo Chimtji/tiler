@@ -7,7 +7,7 @@ any number of displays.
 
 ## 🏗️ Building method
 
-This app was vibe coded as a simple personal local utility with the Claude Fable model. It does not communicate with any external services, does save any credentials and has been reviewed thoroughly for security risks. To make the app work, it ofcourse needs to access your monitor.
+This app was vibe coded as a simple personal local utility with the Claude Fable model. It does not communicate with any external services or save any credentials. It has been reviewed thoroughly for security risks. To make the app work, it ofcourse needs to access your monitor.
 
 ## ⚡️ How it works
 
